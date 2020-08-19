@@ -12,7 +12,7 @@ def index():
 								{'name':'Montreal'}, 
 								{'name':'Calgary'},
 								{'name':'Ottawa'}, 
-								{'name':'Edmonton'}, 
+								{'name':'Austin'}, 
 								{'name':'Mississauga'},
 								{'name':'Winnipeg'}, 
 								{'name':'Vancouver'}, 
